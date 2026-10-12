@@ -1,5 +1,12 @@
 # 🥗 NutriChef — Backend API (Spring Boot 3 + Java 17)
 
+[![Live API Health](https://img.shields.io/badge/API-Health%20Live-brightgreen?style=for-the-badge&logo=spring)](https://ais-pre-5bmzthygksre2hnescz46u-67796372107.asia-southeast1.run.app/api/health)
+[![Java](https://img.shields.io/badge/Java-17-orange?style=for-the-badge&logo=openjdk)](https://adoptium.net/)
+[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.2.x-green?style=for-the-badge&logo=springboot)](https://spring.io/)
+
+> 🔗 **Live Backend URL:** [https://ais-pre-5bmzthygksre2hnescz46u-67796372107.asia-southeast1.run.app/api](https://ais-pre-5bmzthygksre2hnescz46u-67796372107.asia-southeast1.run.app/api)  
+> 🩺 **Health Check Endpoint:** [https://ais-pre-5bmzthygksre2hnescz46u-67796372107.asia-southeast1.run.app/api/health](https://ais-pre-5bmzthygksre2hnescz46u-67796372107.asia-southeast1.run.app/api/health)
+
 NutriChef is an enterprise-grade backend service powering smart food inventory management, recipe recommendation with ingredient matching, and comprehensive nutrition tracking.
 
 Built with **Java 17**, **Spring Boot 3.2.x**, **Spring Security 6**, **Spring Data JPA**, and **MySQL**.
